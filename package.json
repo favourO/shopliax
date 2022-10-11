@@ -1,0 +1,22 @@
+{
+  "name": "shopliax",
+  "version": "1.0.0",
+  "description": "online market payment manager",
+  "main": "shopliax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/www.github.com/favourO.git"
+  },
+  "keywords": [
+    "OJIAKU"
+  ],
+  "author": "FAVOUR OJIAKU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/www.github.com/favourO/issues"
+  },
+  "homepage": "https://github.com/www.github.com/favourO#readme"
+}
